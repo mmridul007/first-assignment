@@ -40,3 +40,31 @@ header{
 .banner .primary-btn{
     margin-top: 32px;
 }
+/* Middle Part-1 */
+.mid-cont{
+    display: flex;
+    gap: 87px;
+}
+.mid-item-1{
+    margin-top: 131px;
+    margin-left: 206px;
+}
+.mid-item-2{
+    margin-top: 370px;
+    margin-right: 295px;
+}
+.item-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.item-discription{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.check-icon{
+    width: 24px;
+    height: 24px;
+}
