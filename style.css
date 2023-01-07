@@ -5,8 +5,9 @@
 /* header-section */
 header{
     background:url(images/banner/banner1.png);
+    background-repeat: no-repeat;
     width: 100%;
-    height: 808px;
+    height: 100vh;
 }
 .banner{
     margin: 0 200px;
@@ -96,4 +97,62 @@ header{
     color: #737272;
     font-size: 25px;
     padding-top: 16px;
+}
+/* Footer Section */
+
+.footer-item{
+    display: flex;
+    gap: 331px;
+    background: #151414;
+    height: 577px;
+    margin-top: 131px;
+}
+.footer-left-part{
+    margin-left: 230px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-top: 130px;
+}
+.footer-discription{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 16px;
+
+}
+.footer-contact{
+    margin-top: 24px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.logo{
+    margin-top: 32px;
+
+}
+.footer-right-part{
+    margin-right: 431px;
+
+}
+.sub{
+    margin-top: 131px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.footer-right-part input{
+    margin-top: 31px;
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: #151414;
+    color: #FFFFFF;
+    border: 1px solid white;
+    padding-left: 21px;
+}
+.footer-right-part .primary-btn{
+    background-color: #F8F8F8;
+    color: #F15B22;
+    margin-top: 16px;
 }
