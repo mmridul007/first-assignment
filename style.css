@@ -68,3 +68,32 @@ header{
     width: 24px;
     height: 24px;
 }
+/* Mid part-2 */
+.mid-cont-2{
+    text-align: center;
+}
+.plan-head{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 130px;
+}
+.plans{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    gap: 86px;
+    margin-top: 50px;
+    
+}
+
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 24px;
+    
+}
+.plan-discription{
+    color: #737272;
+    font-size: 25px;
+    padding-top: 16px;
+}
