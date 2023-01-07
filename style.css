@@ -100,6 +100,10 @@ header{
     font-size: 25px;
     padding-top: 16px;
 }
+.plan-2 img{
+    width: 105px;
+    height: 105px;
+}
 /* Middle content 3 */
 .gradiant-content{
     background-image: url(images/watch.png);
@@ -126,6 +130,7 @@ header{
 .gradiant-content .primary-btn{
     background: white;
     color: #F15B22;
+    margin-top: 24px;
 }
 
 /* Footer Section */
